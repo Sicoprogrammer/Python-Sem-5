@@ -62,3 +62,4 @@ plt.title('Humidity Membership Functions')
 plt.legend()
 
 plt.show()
+print("Done")
